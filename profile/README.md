@@ -17,6 +17,7 @@ Every package in this organization started as something we needed ourselves. Ins
 |---|---|---|---|
 | [sf-background-backup-kit](https://github.com/swift-family/sf-background-backup-kit) | Background backup task scheduling and management | iOS / macOS | iOS 15+ |
 | [sf-contact-alphabet-list-kit](https://github.com/swift-family/sf-contact-alphabet-list-kit) | Alphabetically indexed contact list UI component | iOS | iOS 18+ |
+| [sf-core-kit](https://github.com/swift-family/sf-core-kit) | Reusable extensions and foundational app utilities | iOS / macOS / tvOS / watchOS | iOS 15+ |
 | [sf-webview-kit](https://github.com/swift-family/sf-webview-kit) | Lightweight, configurable WKWebView wrapper | iOS / macOS | iOS 16+ |
 
 ## Usage
